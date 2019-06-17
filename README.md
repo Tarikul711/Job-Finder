@@ -5,3 +5,45 @@ Use Case diagram for company user.
 
 I.	Use Case diagram for company user.
 ![](images/u1.png)
+I.	Use Case Diagram for Job seeker.
+![](images/u2.png)
+I.	Use Case Diagram for System supper admin.
+![](images/u3.png)
+I.	Use Case diagram for system admin.
+![](images/u4.png)
+1.	Activity diagram for post a new job:
+![](images/a1.png)
+1.	Activity diagram for Apply job:
+![](images/a2.png)
+1.	Activity diagram for search job:
+![](images/a3.png)
+ Entity relationship diagram.
+ ![](images/e1.png)
+I.	System Sequence Diagram for job seeker user:
+ ![](images/s1.png)
+  ![](images/s2.png)
+  
+  Screenshot
+ ![](images/d1.png)
+.....
+![](images/d2.png)
+.....
+ ![](images/d3.png)
+ .....
+ ![](images/d4.png)
+ .....
+ ![](images/d5.png)
+ .....
+ ![](images/d6.png)
+ .....
+ ![](images/d7.png)
+ .....
+ ![](images/d8.png)
+ .....
+ ![](images/d9.png)
+ .....
+ ![](images/d10.png)
+ .....
+ ![](images/d11.png)
+ .....
+ ![](images/d12.png)
